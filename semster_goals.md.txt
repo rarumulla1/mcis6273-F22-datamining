@@ -1,0 +1,11 @@
+List of Skills to Accomplish in Data Mining
+
+
+ Learn Jupyter Notebook
+Learn and improve knowledge in Github commands
+To learn markDown
+To learn mining and data visualization
+Learn how to do data cleaning
+Learn Data clustering Algorithms
+
+
